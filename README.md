@@ -6,9 +6,9 @@ Meal Finder is a website that aims to inform. It does the following:
 - Then it will provide the recipie and ingredients for said meals.
 
 ## Technologies
-HTML
-CSS 
-JavaScript
+-HTML
+-CSS 
+-JavaScript
 
 ## APIs
 > TheMealDB https://www.themealdb.com/api.php
