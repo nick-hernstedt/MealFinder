@@ -1,6 +1,4 @@
 # Meal Finder
-"Showing the brilliance of the night sky in an ever-expanding universe."
-
 
 ## What it is
 Meal Finder is a website that aims to inform. It does the following:
