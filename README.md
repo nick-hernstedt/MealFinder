@@ -1,4 +1,6 @@
 # Meal Finder
+## Site Link
+https://nick-hernstedt.github.io/MealFinder/
 
 ## What it is
 Meal Finder is a website that aims to inform. It does the following:
