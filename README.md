@@ -6,6 +6,8 @@ https://nick-hernstedt.github.io/MealFinder/
 Meal Finder is a website that aims to inform. It does the following:
 - Provides the user with the ability to search and find meals based on what type of food they are looking for.
 - Then it will provide the recipie and ingredients for said meals.
+##
+![Picture of site](./assets/meal.png)
 
 ## Technologies
 - Responsive Design
